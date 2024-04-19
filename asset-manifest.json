@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pgreact/static/css/main.43422aa2.css",
+    "main.js": "/pgreact/static/js/main.9600b77e.js",
+    "static/js/453.9b3dc49c.chunk.js": "/pgreact/static/js/453.9b3dc49c.chunk.js",
+    "index.html": "/pgreact/index.html",
+    "main.43422aa2.css.map": "/pgreact/static/css/main.43422aa2.css.map",
+    "main.9600b77e.js.map": "/pgreact/static/js/main.9600b77e.js.map",
+    "453.9b3dc49c.chunk.js.map": "/pgreact/static/js/453.9b3dc49c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43422aa2.css",
+    "static/js/main.9600b77e.js"
+  ]
+}
